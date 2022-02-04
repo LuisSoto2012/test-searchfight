@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/lsotof-dev/.dotnet/store/|arch|/|tfm|",
+      "/Users/lsotof-dev/.nuget/packages"
+    ]
+  }
+}
